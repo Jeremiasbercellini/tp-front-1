@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    min-height: 130vh;
+}
+header{
+    position: sticky;
+    top: 0%;
+    background-color: peru;
+    height: 20vh;
+}
+main{
+    background-color: rgb(63, 205, 193);
+    flex: 1;
+}
+footer{
+    background-color: rgb(205, 63, 151);
+    height: 20vh; 
+}
+h1{
+    margin: 0%;
+}
+h2{
+    margin: 0%;
+}
+h3{
+    margin: 0%;
+}
